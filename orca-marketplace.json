@@ -87,7 +87,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/NooBiToo/orca-quick-prompts.git",
-        "ref": "v0.1.0"
+        "ref": "v0.2.1"
       },
       "description": "One-click prompt snippets for agent terminals: side panel, palette commands, personal library.",
       "categories": ["productivity"]
