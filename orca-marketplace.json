@@ -87,7 +87,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/NooBiToo/orca-russian.git",
-        "ref": "v1.0.5"
+        "ref": "v1.0.6"
       },
       "description": "Complete Russian translation of the Orca interface with native plural forms.",
       "categories": ["languages"]
